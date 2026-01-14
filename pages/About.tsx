@@ -75,7 +75,7 @@ const About: React.FC = () => {
                 </ul>
               </div>
               <div className="h-64 md:h-auto">
-                <img src="https://picsum.photos/seed/about-banner/1000/1000" alt="About" className="w-full h-full object-cover" />
+                <img src="https://picsum.photos/seed/community-service/1000/1000" alt="About Banner" className="w-full h-full object-cover" />
               </div>
             </div>
           </div>

@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { X } from 'lucide-react';
 
 const images = [
-  { id: 1, url: 'https://picsum.photos/seed/g1/800/600', title: 'বিশাল জনসভা ২০২৪' },
+  { id: 1, url: 'https://postimg.cc/rD8nwP3k', title: 'বিশাল জনসভা ২০২৪' },
   { id: 2, url: 'https://picsum.photos/seed/g2/800/600', title: 'শীতার্তদের সহায়তা' },
   { id: 3, url: 'https://picsum.photos/seed/g3/800/600', title: 'রক্তদান কর্মসূচি' },
   { id: 4, url: 'https://picsum.photos/seed/g4/800/600', title: 'ওয়ার্ড কমিটির মিটিং' },

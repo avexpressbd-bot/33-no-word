@@ -11,10 +11,10 @@ const Home: React.FC = () => {
       
       {/* Hero Section */}
       <section className="relative h-[600px] flex items-center overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-r from-blue-900/90 to-blue-800/40 z-10"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-blue-900/95 to-blue-800/50 z-10"></div>
         <img 
-          src="https://picsum.photos/seed/politics/1920/1080" 
-          alt="Political Rally" 
+          src="https://picsum.photos/seed/bangladesh-rally/1920/1080" 
+          alt="Political Rally Banner" 
           className="absolute inset-0 w-full h-full object-cover"
         />
         <div className="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-white">
@@ -80,8 +80,8 @@ const Home: React.FC = () => {
             <div className="relative">
               <div className="absolute -top-4 -left-4 w-24 h-24 bg-red-600 -z-10 rounded-lg opacity-20"></div>
               <img 
-                src="https://picsum.photos/seed/leader/800/1000" 
-                alt="Leader" 
+                src="https://picsum.photos/seed/abu-taher/800/1000" 
+                alt="মোঃ আবু তাহের" 
                 className="rounded-2xl shadow-2xl w-full object-cover aspect-[4/5]"
               />
               <div className="absolute bottom-6 left-6 right-6 bg-white/90 backdrop-blur-md p-6 rounded-xl shadow-lg border border-blue-100">
@@ -120,7 +120,7 @@ const Home: React.FC = () => {
           <h2 className="text-3xl md:text-4xl font-bold mb-12">সাম্প্রতিক কর্মকাণ্ডের ভিডিও</h2>
           <div className="relative group max-w-4xl mx-auto cursor-pointer">
             <img 
-              src="https://picsum.photos/seed/rally-video/1200/675" 
+              src="https://picsum.photos/seed/townhall-rally/1200/675" 
               alt="Video Thumbnail" 
               className="rounded-2xl shadow-2xl opacity-80 group-hover:opacity-100 transition-opacity"
             />

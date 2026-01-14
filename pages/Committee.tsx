@@ -4,12 +4,12 @@ import { Phone, User } from 'lucide-react';
 import { Member } from '../types';
 
 const members: Member[] = [
-  { id: 1, name: "মোঃ আবু তাহের", designation: "আহব্বায়ক", phone: "০১৯৯৯৯৬৬০৪৪", imageUrl: "https://picsum.photos/seed/m1/400/400" },
-  { id: 2, name: "মোঃ জুম্মান বেপারি", designation: "যুগ্ন-আহব্বায়ক", phone: "০১৮৭৩০৬১১৫৯", imageUrl: "https://picsum.photos/seed/m2/400/400" },
-  { id: 3, name: "মোঃ সাইফুল ইসলাম খলিফা", designation: "যুগ্ন-আহব্বায়ক", phone: "০১৮৭৩০৬১১৫৯", imageUrl: "https://picsum.photos/seed/m3/400/400" },
-  { id: 4, name: "মোঃ জাহিদুল ইসলাম কালু", designation: "যুগ্ন-আহব্বায়ক", phone: "০১৮৭৩০৬১১৫৯", imageUrl: "https://picsum.photos/seed/m4/400/400" },
-  { id: 5, name: "মোঃ মমিনুর রহমান", designation: "যুগ্ন-আহব্বায়ক", phone: "০১৮৭৩০৬১১৫৯", imageUrl: "https://picsum.photos/seed/m5/400/400" },
-  { id: 6, name: "মোঃ মতিন", designation: "সদস্য", phone: "০১৮৭৩০৬১১৫৯", imageUrl: "https://picsum.photos/seed/m6/400/400" },
+  { id: 1, name: "মোঃ আবু তাহের", designation: "আহব্বায়ক", phone: "০১৯৯৯৯৬৬০৪৪", imageUrl: "https://picsum.photos/seed/abu-taher-portrait/400/400" },
+  { id: 2, name: "মোঃ জুম্মান বেপারি", designation: "যুগ্ন-আহব্বায়ক", phone: "০১৮৭৩০৬১১৫৯", imageUrl: "https://picsum.photos/seed/jumman-bepari/400/400" },
+  { id: 3, name: "মোঃ সাইফুল ইসলাম খলিফা", designation: "যুগ্ন-আহব্বায়ক", phone: "০১৮৭৩০৬১১৫৯", imageUrl: "https://picsum.photos/seed/saiful-khalifa/400/400" },
+  { id: 4, name: "মোঃ জাহিদুল ইসলাম কালু", designation: "যুগ্ন-আহব্বায়ক", phone: "০১৮৭৩০৬১১৫৯", imageUrl: "https://picsum.photos/seed/zahidul-kalu/400/400" },
+  { id: 5, name: "মোঃ মমিনুর রহমান", designation: "যুগ্ন-আহব্বায়ক", phone: "০১৮৭৩০৬১১৫৯", imageUrl: "https://picsum.photos/seed/mominur-rahman/400/400" },
+  { id: 6, name: "মোঃ মতিন", designation: "সদস্য", phone: "০১৮৭৩০৬১১৫৯", imageUrl: "https://picsum.photos/seed/matin-member/400/400" },
 ];
 
 const Committee: React.FC = () => {
